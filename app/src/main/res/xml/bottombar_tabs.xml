@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/ic_small_target"
+        id="@+id/tab_small_target"
+        title="@string/small_target"
+        />
+    <tab
+        icon="@drawable/ic_find"
+        id="@+id/tab_find"
+        title="@string/find"
+        />
+    <tab
+        icon="@drawable/ic_message"
+        id="@+id/tab_message"
+        title="@string/message"
+        />
+    <tab
+        icon="@drawable/ic_my"
+        id="@+id/tab_my_home"
+        title="@string/my_home"
+        />
+</tabs>
