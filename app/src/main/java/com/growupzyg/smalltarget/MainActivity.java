@@ -2,13 +2,13 @@ package com.growupzyg.smalltarget;
 
 import android.os.Bundle;
 import android.support.annotation.IdRes;
-import android.support.v7.app.AppCompatActivity;
 
+import com.growupzyg.smalltarget.base.BaseActivity;
 import com.growupzyg.smalltarget.utils.ActivityUtils;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnTabSelectListener;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
     private BottomBar mBottomBar;
 
     @Override

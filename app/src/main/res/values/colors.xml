@@ -3,4 +3,11 @@
     <color name="colorPrimary">#FF9F68</color>
     <color name="colorPrimaryDark">#FFCC68</color>
     <color name="colorAccent">#F85959</color>
+
+    <color name="light_grey">#EEE</color>
+
+    <color name="font_main">#666</color>
+    <color name="font_second">#999</color>
+
+    <color name="white">#FFF</color>
 </resources>
